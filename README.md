@@ -1,9 +1,9 @@
 # Digital-Wellbeing-dan-Technostress-pada-Penggunaan-TikTok-Analisis-Etika-Sistem-Informasi
 
-BAB I
-Pendahuluan
+## BAB I Pendahuluan
 
 1.1  Latar Belakang 
+
 Perkembangan teknologi informasi pada era digital telah mendorong perubahan yang signifikan dalam berbagai aspek kehidupan manusia. Teknologi tidak lagi hanya berfungsi sebagai alat bantu komputasi, tetapi telah berkembang menjadi sistem yang mampu mendukung, mengotomatisasi, serta memengaruhi aktivitas sehari hari (Laudon & Laudon, 2013). Salah satu bentuk nyata dari perkembangan ini adalah munculnya berbagai platform media sosial yang menjadi bagian integral dari kehidupan modern. Platform seperti TikTok telah menjadi salah satu media yang dominan dalam membentuk pola interaksi dan perilaku pengguna.
 
 TikTok merupakan platform berbasis video pendek yang memanfaatkan algoritma canggih untuk menyajikan konten yang dipersonalisasi kepada pengguna. Melalui fitur For You Page (FYP), sistem ini mampu menganalisis perilaku pengguna secara real time, sehingga meningkatkan keterlibatan pengguna secara signifikan (Kaye et al., 2021). Namun, di balik keunggulan tersebut, penggunaan TikTok juga menimbulkan berbagai permasalahan, khususnya terkait dengan kesejahteraan digital (digital wellbeing) dan fenomena technostress.
@@ -19,10 +19,10 @@ Technostress merupakan kondisi stres yang muncul akibat penggunaan teknologi sec
 
 
 
-BAB II
-Pembahasan
+## BAB II Pembahasan
 
 2.1  Analisis Sistem, Nilai, dan Dampak Penggunaan TikTok
+
 TikTok merupakan platform media sosial yang mengandalkan teknologi machine learning dan analisis data dalam menyajikan konten kepada pengguna. Sistem algoritma yang digunakan bekerja dengan mengolah berbagai data interaksi, seperti durasi menonton, preferensi konten, serta aktivitas pengguna dalam aplikasi. Melalui pendekatan ini, TikTok mampu menciptakan pengalaman pengguna yang sangat personal dan relevan, sehingga meningkatkan keterlibatan pengguna secara signifikan (Kaye et al., 2021).
 
 Dari sisi manfaat, penggunaan TikTok memberikan berbagai nilai positif, seperti kemudahan akses hiburan, peningkatan konektivitas sosial, serta peluang ekonomi bagi kreator konten. Selain itu, platform ini juga berperan dalam mempercepat penyebaran informasi secara global, sehingga pengguna dapat memperoleh berbagai pengetahuan dengan lebih cepat dan efisien.
@@ -35,6 +35,7 @@ Dalam konteks pihak yang terlibat, perusahaan sebagai penyedia platform dan peng
 
 
 2.2 Analisis Etika Sistem
+
 Analisis etika penggunaan TikTok dapat dilakukan melalui lima dimensi moral dalam sistem informasi yang dikemukakan oleh Laudon dan Laudon (2013). Dimensi pertama, information rights and obligations, berkaitan dengan hak pengguna terhadap data pribadi mereka. Pengumpulan data secara masif oleh TikTok menimbulkan pertanyaan mengenai sejauh mana pengguna memiliki kontrol terhadap informasi tersebut.
 
 Dimensi kedua, property rights and obligations, menunjukkan bahwa data pengguna diperlakukan sebagai aset ekonomi oleh perusahaan. Hal ini menimbulkan dilema etis karena pengguna sering kali tidak menyadari nilai ekonomi dari data yang mereka hasilkan (Zuboff, 2019).
@@ -47,7 +48,6 @@ Dimensi kelima, quality of life, menjadi aspek yang paling dominan karena penggu
 
 2.3 Ethical Decision Framework
 
-		
 Dalam menganalisis permasalahan etika yang muncul dari penggunaan TikTok, digunakan suatu kerangka pengambilan keputusan etis yang sistematis untuk memastikan bahwa setiap keputusan mempertimbangkan aspek moral, sosial, dan kesejahteraan pengguna. Framework ini terdiri dari beberapa tahapan yang saling berkaitan.
 
 Tahap pertama adalah identifikasi masalah dan pemeriksaan fakta. Permasalahan utama dalam penggunaan TikTok merupakan isu etis yang jelas, yaitu konflik antara manfaat teknologi dan dampak negatifnya terhadap pengguna. Dilema etis muncul karena adanya pertentangan antara nilai hiburan dan akses informasi dengan risiko seperti kecanduan, technostress, serta pelanggaran privasi. Fakta menunjukkan bahwa algoritma TikTok dirancang untuk meningkatkan keterlibatan pengguna melalui personalisasi konten, sehingga mendorong penggunaan secara berulang dan intensif. Selain itu, pengumpulan data pengguna secara masif menjadi faktor penting yang perlu dipertimbangkan dalam analisis etika.
@@ -59,7 +59,8 @@ Tahap ketiga adalah evaluasi alternatif solusi. Beberapa alternatif yang dapat d
 Tahap keempat adalah implementasi dan dokumentasi keputusan. Berdasarkan evaluasi, solusi yang paling etis adalah pengembangan sistem yang lebih berorientasi pada kesejahteraan pengguna, seperti penerapan fitur screen time control, transparansi algoritma, serta perlindungan data yang lebih baik. Keputusan ini didasarkan pada pertimbangan bahwa sistem harus mendukung kualitas hidup pengguna tanpa mengorbankan manfaat teknologi.
 
 Tahap terakhir adalah review dan refleksi. Evaluasi terhadap keputusan yang diambil perlu dilakukan secara berkala untuk menilai efektivitasnya dalam mengurangi technostress dan meningkatkan digital wellbeing. Proses refleksi ini juga memungkinkan perbaikan berkelanjutan dalam pengembangan sistem yang lebih etis di masa depan.
-2.3 Rekomendasi Kebijakan dan Desain Sistem yang Lebih Etis
+2.4 Rekomendasi Kebijakan dan Desain Sistem yang Lebih Etis
+
 Berdasarkan analisis etika yang telah dilakukan, diperlukan pengembangan kebijakan dan desain sistem yang lebih berorientasi pada kesejahteraan pengguna. Rekomendasi ini bertujuan untuk mengurangi dampak technostress serta meningkatkan kualitas hidup pengguna secara keseluruhan.
 
 Salah satu rekomendasi utama adalah penerapan fitur screen time control yang memungkinkan pengguna membatasi durasi penggunaan aplikasi secara otomatis. Fitur ini dapat membantu pengguna dalam mengelola waktu penggunaan teknologi secara lebih sadar dan terkontrol.
@@ -72,50 +73,26 @@ Dari sisi kebijakan, diperlukan regulasi yang lebih ketat terkait perlindungan d
 
 Dengan mengintegrasikan aspek desain sistem dan kebijakan yang lebih etis, diharapkan platform seperti TikTok dapat memberikan manfaat yang optimal tanpa mengorbankan kesejahteraan pengguna.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-BAB III
-Penutup
+## BAB III Penutup
 
 3.1  Kesimpulan
+
 Penggunaan TikTok sebagai platform media sosial menunjukkan bagaimana teknologi dapat memberikan manfaat sekaligus menimbulkan permasalahan etis. Sistem algoritma yang digunakan mampu meningkatkan pengalaman pengguna melalui personalisasi konten, namun juga berpotensi menimbulkan technostress dan menurunkan kualitas hidup.
 
 Analisis berdasarkan lima dimensi moral Laudon menunjukkan bahwa dimensi quality of life merupakan aspek yang paling terdampak. Oleh karena itu, diperlukan pendekatan yang lebih etis dalam pengembangan sistem informasi agar teknologi tidak hanya berfokus pada efisiensi, tetapi juga kesejahteraan manusia.
 
 
 3.2  Referensi
+
 Kaye, D. B. V., Chen, X., & Zeng, J. (2021). The co-evolution of two Chinese mobile short video apps: Parallel platformization of Douyin and TikTok. New Media & Society, 23(7), 1740–1759.
+
 Kross, E., Verduyn, P., Demiralp, E., Park, J., Lee, D. S., Lin, N., & Ybarra, O. (2013). Facebook use predicts declines in subjective well-being in young adults. PLOS ONE, 8(8), e69841.
+
 Laudon, K. C., & Laudon, J. P. (2013). Management Information Systems: Managing the Digital Firm (13th ed.). Pearson.
+
 Montag, C., Yang, H., & Elhai, J. D. (2021). On the psychology of TikTok use: A first glimpse from empirical findings. Frontiers in Public Health, 9, 641673.
+
 Tarafdar, M., Tu, Q., & Ragu-Nathan, T. S. (2007). The impact of technostress on role stress and productivity. Journal of Management Information Systems, 24(1), 301–328.
+
 Zuboff, S. (2019). The age of surveillance capitalism. PublicAffairs.
-3.3 Publish Link  
-https://github.com/respanandaayuning-source/Digital-Wellbeing-dan-Technostress-pada-Penggunaan-TikTok-Analisis-Etika-Sistem-Informasi
 
